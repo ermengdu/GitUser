@@ -10,5 +10,10 @@ public class HelloDemo {
     // Hello World 方法！
     public static void main(String[] args) {
         System.out.println("hello world");
+        hello("Jack");
+    }
+
+    public static void hello(String name) {
+        System.out.println("hello " + name);
     }
 }
