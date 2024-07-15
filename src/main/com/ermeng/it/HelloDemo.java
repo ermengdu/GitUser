@@ -7,6 +7,7 @@ package main.com.ermeng.it;
  */
 
 public class HelloDemo {
+    // Hello World 方法！
     public static void main(String[] args) {
         System.out.println("hello world");
     }
